@@ -16,7 +16,7 @@
 <p align="left">
 
 <a href="https://www.codechef.com/users/rajputpiyush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajputpiyush" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rajputpiyush07j1" target="blank"><img align="center" src="https://github.com/rajputpiyush/rajputpiyush/hackerrank-svgrepo-com.svg" alt="@rajputpiyush07j1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@rajputpiyush07j1" target="blank"><img align="center" src="hackerrank-svgrepo-com.svg" alt="@rajputpiyush07j1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
