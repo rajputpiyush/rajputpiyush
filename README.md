@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Boy trying to Figure-Out Stuff!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 I’m currently working on **Route Finder**
