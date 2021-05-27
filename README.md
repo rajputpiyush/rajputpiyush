@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="QDyD.gif">
 - 🔭 I’m currently working on **Route Finder**
 
 - 🌱 I’m currently learning **Laravel Framework**
