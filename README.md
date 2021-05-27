@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [github/rajputpiyush](github/link)
+- 👨‍💻 All of my projects are available at [github/rajputpiyush](github/https://github.com/rajputpiyush/)
 
 - 💬 Ask me about **PHP, DSA, Java**
 
